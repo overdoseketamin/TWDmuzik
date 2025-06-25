@@ -1,5 +1,4 @@
 pyrogram==1.4.12
-py-tgcalls
 TgCrypto
 python-dotenv
 youtube-dl
@@ -9,10 +8,11 @@ aiofiles
 asyncio==3.4.3
 python-arq
 search_engine_parser
-wget 
+wget
 ffmpeg-python
 Pillow==9.1.0
 ujson
 pymongo[srv]
 psutil
 motor
+py-tgcalls
