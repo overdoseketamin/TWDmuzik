@@ -16,6 +16,4 @@ ujson
 pymongo[srv]
 psutil
 motor
-git+https://github.com/PlutoOwner/Loading2@master
 git+https://github.com/alexmercerind/youtube-search-python@main
-git+https://github.com/PlutoOwner/update@master
