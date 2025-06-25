@@ -16,4 +16,3 @@ ujson
 pymongo[srv]
 psutil
 motor
-git+https://github.com/alexmercerind/youtube-search-python@main
